@@ -1,0 +1,13 @@
+1. SELECT model,speed,hd 
+FROM PC
+WHERE price < 500
+
+2. 
+
+3. SELECT model,ram,screen
+FROM Laptop
+WHERE price > 1000
+
+4. SELECT code,model,color,type,price 
+FROM Printer
+WHERE color = 'y'
